@@ -419,6 +419,8 @@ h3 span{
 }
 /* Footer  */
 footer a { color: #a1a9b0; }
+footer h4{color: #a1a9b0;font-size:18px;text-align: center;}
+footer h4:hover{color:#f28a36;text-decoration:underline}
 footer { background-color: #242830; padding: 40px 0 30px; }
 footer p { color: #fff; }
 ul.legals { list-style: none; color: #fff; line-height: 25px; }
